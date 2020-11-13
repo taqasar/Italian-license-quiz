@@ -1,5 +1,5 @@
 # Italian Driving School Quiz
-## <span style="color:orange">License dataset based on Italian traffic laws</span>.
+## <span style="color:orange">License dataset based on Italian traffic laws</span>
 > This repository contains all the necessary quizzes you need in order to develop an application regarding the italian driving license. The dataset consist of __more than 7000 quizzes__ with the related __answer and image__ in case some question needs an explanatory picture. You can use this as a dataset for fetching quizzes in a quiz simulation application or any application related to the Italian driving license where there is a quiz section.
 
 ## <span style="color:orange">Repository structure</span>
